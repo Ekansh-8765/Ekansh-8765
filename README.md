@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ekansh-8765
 - 👀 I’m interested in ...Coding 
-- 🌱 I’m currently learning ...Beckend
+- 🌱 I’m currently learning ...Backend
 - 💞️ I’m looking to collaborate on ...any project
 - 📫 How to reach me ...chaudharyekansh.cms@gmail.com
 
